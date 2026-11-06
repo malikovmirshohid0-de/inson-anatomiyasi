@@ -1,0 +1,6 @@
+{
+  "name": "Inson Tanasi 3D – Interaktiv Tibbiy Atlas",
+  "description": "Inson anatomiyasi, ichki a'zolar, suyaklar, mushaklar, qon aylanish tizimi, kasalliklar ensiklopediyasi va JSST tibbiy statistikasini o'z ichiga olgan professional 3D interaktiv tibbiy ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
